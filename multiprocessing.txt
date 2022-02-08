@@ -1,0 +1,983 @@
+Script started on Tue Feb  8 10:56:18 2022
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ scriptgit commit -m "prog0"[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd 0_procesos.py
+bash-3.2$ git add 0_procesos.py[C[C[C[C[C[C[C[C[C[Cscript[Kgit commit -m "prog0"[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd 0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "prog0"[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd 0_procesos.py[1P_procesos.py1_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C
+bash-3.2$ git add 1_procesos.py[1P_procesos.py2_procesos.py
+bash-3.2$ git add 2_procesos.py[1P_procesos.py3_procesos.py
+bash-3.2$ git add 3_procesos.py[1P_procesos.py4_procesos.py
+bash-3.2$ git add 4_procesos.py3_procesos.py2_procesos.py1_procesos.py0_procesos.py[C[C[C[C[C[C[C[C[C[Cscript[Kgit commit -m "prog0"[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd 0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "prog0"[1P"[1P"[C
+[main 8620ce1] pro
+ Committer: Arturo Tarazona Pérez <artutaraperegmail.com@MacBook-Air-de-Arturo.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 63 insertions(+)
+ create mode 100755 3_procesos.py
+ create mode 100755 4_procesos.py
+bash-3.2$ git push
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects:  12% (1/8)Compressing objects:  25% (2/8)Compressing objects:  37% (3/8)Compressing objects:  50% (4/8)Compressing objects:  62% (5/8)Compressing objects:  75% (6/8)Compressing objects:  87% (7/8)Compressing objects: 100% (8/8)Compressing objects: 100% (8/8), done.
+Writing objects:  25% (2/8)Writing objects:  37% (3/8)Writing objects:  75% (6/8)Writing objects:  87% (7/8)Writing objects: 100% (8/8)Writing objects: 100% (8/8), 1.57 KiB | 805.00 KiB/s, done.
+Total 8 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)[Kremote: Resolving deltas:  20% (1/5)[Kremote: Resolving deltas:  40% (2/5)[Kremote: Resolving deltas:  60% (3/5)[Kremote: Resolving deltas:  80% (4/5)[Kremote: Resolving deltas: 100% (5/5)[Kremote: Resolving deltas: 100% (5/5), done.[K
+To github.com:artaraazo/arturo.git
+   4259cad..8620ce1  main -> main
+bash-3.2$ python3 git pushcommit -m "pro"add 4_procesos.py3_procesos.py2_procesos.py1_procesos.py0_procesos.py[C[C[C[C[C[C[C[C[C[Cscript[Kgit commit -m "prog0"[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd 0_procesos.py[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "prog0"[C[C[C[C[C[C[C[C[C[Cpython3 0_procesos.py[C[C[C[C[C[C[C[C[C[Cgit add[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pcd arturogit add 0_procesos.py[C[C[C[C[C[C[C[C[C[Cpython3[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+fin
+hola 0
+hola 0
+hola 1
+hola 1
+hola 2
+hola 2
+hola 3
+hola 3
+hola 4
+hola 4
+bash-3.2$ python3 1_0_procesos.py[C[C[C[C[C[C[C[C[C[C[13Pgit pushpython3 0_procesos.py1_[Kprocso[K[Kesos.py
+fin
+hola soy ana 2 vuelta 0
+hola soy ana 0 vuelta 0
+hola soy ana 1 vuelta 0
+hola soy ana 3 vuelta 0
+hola soy ana 4 vuelta 0
+hola soy ana 5 vuelta 0
+hola soy ana 4 vuelta 1
+hola soy ana 7 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 8 vuelta 0
+adios
+hola soy ana 9 vuelta 0
+hola soy ana 1 vuelta 1
+hola soy ana 6 vuelta 1
+hola soy ana 9 vuelta 1
+hola soy ana 1 vuelta 2
+hola soy ana 0 vuelta 1
+hola soy ana 2 vuelta 1
+hola soy ana 9 vuelta 2
+hola soy ana 4 vuelta 2
+hola soy ana 7 vuelta 1
+hola soy ana 0 vuelta 2
+hola soy ana 3 vuelta 1
+hola soy ana 5 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 5 vuelta 2
+hola soy ana 3 vuelta 2
+hola soy ana 6 vuelta 2
+hola soy ana 2 vuelta 2
+hola soy ana 7 vuelta 2
+hola soy ana 8 vuelta 2
+bash-3.2$ python3 1_procesos.py[1P_procesos.py2_procesos.py
+fin
+hola soy ana_0, 46259, True, vuelta 0
+hola soy ana_1, 46260, True, vuelta 0
+hola soy ana_2, 46261, True, vuelta 0
+adios
+hola soy ana_0, 46259, True, vuelta 1
+hola soy ana_0, 46259, True, vuelta 2
+hola soy ana_2, 46261, True, vuelta 1
+hola soy ana_0, 46259, True, vuelta 3
+hola soy ana_1, 46260, True, vuelta 1
+hola soy ana_2, 46261, True, vuelta 2
+hola soy ana_1, 46260, True, vuelta 2
+hola soy ana_0, 46259, True, vuelta 4
+hola soy ana_1, 46260, True, vuelta 3
+hola soy ana_1, 46260, True, vuelta 4
+hola soy ana_2, 46261, True, vuelta 3
+hola soy ana_2, 46261, True, vuelta 4
+bash-3.2$ python3 2_procesos.py[1P_procesos.py3_procesos.py
+Valor inicial del contador 0
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 1, in <module>
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 126, in _main
+    self = reduction.pickle.load(from_parent)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/synchronize.py", line 110, in __setstate__
+    exitcode = _main(fd, parent_sentinel)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 126, in _main
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+    self = reduction.pickle.load(from_parent)
+  File "/Users/artutaraperegmail.com/opt/anaconda3/lib/python3.8/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+FileNotFoundError: [Errno 2] No such file or directory
+bash-3.2$ python3 3_procesos.py[1P_procesos.py4_procesos.py
+Valor inicial del contador 0
+hola soy 46281, vuelta: 0, contador: 1
+hola soy 46281, vuelta: 1, contador: 2
+hola soy 46281, vuelta: 2, contador: 3
+hola soy 46281, vuelta: 3, contador: 4
+hola soy 46281, vuelta: 4, contador: 5
+hola soy 46281, vuelta: 5, contador: 6
+hola soy 46281, vuelta: 6, contador: 7
+hola soy 46281, vuelta: 7, contador: 8
+hola soy 46281, vuelta: 8, contador: 9
+hola soy 46281, vuelta: 9, contador: 10
+hola soy 46281, vuelta: 10, contador: 11
+hola soy 46281, vuelta: 11, contador: 12
+hola soy 46281, vuelta: 12, contador: 13
+hola soy 46281, vuelta: 13, contador: 14
+hola soy 46281, vuelta: 14, contador: 15
+hola soy 46281, vuelta: 15, contador: 16
+hola soy 46281, vuelta: 16, contador: 17
+hola soy 46281, vuelta: 17, contador: 18
+hola soy 46281, vuelta: 18, contador: 19
+hola soy 46281, vuelta: 19, contador: 20
+hola soy 46281, vuelta: 20, contador: 21
+hola soy 46281, vuelta: 21, contador: 22
+hola soy 46281, vuelta: 22, contador: 23
+hola soy 46281, vuelta: 23, contador: 24
+hola soy 46281, vuelta: 24, contador: 25
+hola soy 46281, vuelta: 25, contador: 26
+hola soy 46281, vuelta: 26, contador: 27
+hola soy 46281, vuelta: 27, contador: 28
+hola soy 46281, vuelta: 28, contador: 29
+hola soy 46281, vuelta: 29, contador: 30
+hola soy 46281, vuelta: 30, contador: 31
+hola soy 46281, vuelta: 31, contador: 32
+hola soy 46281, vuelta: 32, contador: 33
+hola soy 46281, vuelta: 33, contador: 34
+hola soy 46281, vuelta: 34, contador: 35
+hola soy 46281, vuelta: 35, contador: 36
+hola soy 46281, vuelta: 36, contador: 37
+hola soy 46281, vuelta: 37, contador: 38
+hola soy 46281, vuelta: 38, contador: 39
+hola soy 46281, vuelta: 39, contador: 40
+hola soy 46281, vuelta: 40, contador: 41
+hola soy 46281, vuelta: 41, contador: 42
+hola soy 46281, vuelta: 42, contador: 43
+hola soy 46281, vuelta: 43, contador: 44
+hola soy 46281, vuelta: 44, contador: 45
+hola soy 46281, vuelta: 45, contador: 46
+hola soy 46281, vuelta: 46, contador: 47
+hola soy 46281, vuelta: 47, contador: 48
+hola soy 46281, vuelta: 48, contador: 49
+hola soy 46281, vuelta: 49, contador: 50
+hola soy 46281, vuelta: 50, contador: 51
+hola soy 46281, vuelta: 51, contador: 52
+hola soy 46281, vuelta: 52, contador: 53
+hola soy 46281, vuelta: 53, contador: 54
+hola soy 46281, vuelta: 54, contador: 55
+hola soy 46281, vuelta: 55, contador: 56
+hola soy 46281, vuelta: 56, contador: 57
+hola soy 46281, vuelta: 57, contador: 58
+hola soy 46281, vuelta: 58, contador: 59
+hola soy 46281, vuelta: 59, contador: 60
+hola soy 46281, vuelta: 60, contador: 61
+hola soy 46281, vuelta: 61, contador: 62
+hola soy 46281, vuelta: 62, contador: 63
+hola soy 46281, vuelta: 63, contador: 64
+hola soy 46281, vuelta: 64, contador: 65
+hola soy 46281, vuelta: 65, contador: 66
+hola soy 46281, vuelta: 66, contador: 67
+hola soy 46281, vuelta: 67, contador: 68
+hola soy 46281, vuelta: 68, contador: 69
+hola soy 46281, vuelta: 69, contador: 70
+hola soy 46281, vuelta: 70, contador: 71
+hola soy 46281, vuelta: 71, contador: 72
+hola soy 46281, vuelta: 72, contador: 73
+hola soy 46281, vuelta: 73, contador: 74
+hola soy 46281, vuelta: 74, contador: 75
+hola soy 46281, vuelta: 75, contador: 76
+hola soy 46281, vuelta: 76, contador: 77
+hola soy 46281, vuelta: 77, contador: 78
+hola soy 46281, vuelta: 78, contador: 79
+hola soy 46281, vuelta: 79, contador: 80
+hola soy 46281, vuelta: 80, contador: 81
+hola soy 46281, vuelta: 81, contador: 82
+hola soy 46281, vuelta: 82, contador: 83
+hola soy 46281, vuelta: 83, contador: 84
+hola soy 46281, vuelta: 84, contador: 85
+hola soy 46281, vuelta: 85, contador: 86
+hola soy 46281, vuelta: 86, contador: 87
+hola soy 46281, vuelta: 87, contador: 88
+hola soy 46281, vuelta: 88, contador: 89
+hola soy 46281, vuelta: 89, contador: 90
+hola soy 46281, vuelta: 90, contador: 91
+hola soy 46281, vuelta: 91, contador: 92
+hola soy 46281, vuelta: 92, contador: 93
+hola soy 46281, vuelta: 93, contador: 94
+hola soy 46281, vuelta: 94, contador: 95
+hola soy 46281, vuelta: 95, contador: 96
+hola soy 46281, vuelta: 96, contador: 97
+hola soy 46281, vuelta: 97, contador: 98
+hola soy 46281, vuelta: 98, contador: 99
+hola soy 46281, vuelta: 99, contador: 100
+hola soy 46282, vuelta: 0, contador: 101
+hola soy 46282, vuelta: 1, contador: 102
+hola soy 46282, vuelta: 2, contador: 103
+hola soy 46282, vuelta: 3, contador: 104
+hola soy 46282, vuelta: 4, contador: 105
+hola soy 46282, vuelta: 5, contador: 106
+hola soy 46282, vuelta: 6, contador: 107
+hola soy 46282, vuelta: 7, contador: 108
+hola soy 46282, vuelta: 8, contador: 109
+hola soy 46282, vuelta: 9, contador: 110
+hola soy 46282, vuelta: 10, contador: 111
+hola soy 46282, vuelta: 11, contador: 112
+hola soy 46282, vuelta: 12, contador: 113
+hola soy 46282, vuelta: 13, contador: 114
+hola soy 46282, vuelta: 14, contador: 115
+hola soy 46282, vuelta: 15, contador: 116
+hola soy 46282, vuelta: 16, contador: 117
+hola soy 46282, vuelta: 17, contador: 118
+hola soy 46282, vuelta: 18, contador: 119
+hola soy 46282, vuelta: 19, contador: 120
+hola soy 46282, vuelta: 20, contador: 121
+hola soy 46282, vuelta: 21, contador: 122
+hola soy 46282, vuelta: 22, contador: 123
+hola soy 46282, vuelta: 23, contador: 124
+hola soy 46282, vuelta: 24, contador: 125
+hola soy 46282, vuelta: 25, contador: 126
+hola soy 46282, vuelta: 26, contador: 127
+hola soy 46282, vuelta: 27, contador: 128
+hola soy 46282, vuelta: 28, contador: 129
+hola soy 46282, vuelta: 29, contador: 130
+hola soy 46282, vuelta: 30, contador: 131
+hola soy 46282, vuelta: 31, contador: 132
+hola soy 46282, vuelta: 32, contador: 133
+hola soy 46282, vuelta: 33, contador: 134
+hola soy 46282, vuelta: 34, contador: 135
+hola soy 46282, vuelta: 35, contador: 136
+hola soy 46282, vuelta: 36, contador: 137
+hola soy 46282, vuelta: 37, contador: 138
+hola soy 46282, vuelta: 38, contador: 139
+hola soy 46282, vuelta: 39, contador: 140
+hola soy 46282, vuelta: 40, contador: 141
+hola soy 46282, vuelta: 41, contador: 142
+hola soy 46282, vuelta: 42, contador: 143
+hola soy 46282, vuelta: 43, contador: 144
+hola soy 46282, vuelta: 44, contador: 145
+hola soy 46282, vuelta: 45, contador: 146
+hola soy 46282, vuelta: 46, contador: 147
+hola soy 46282, vuelta: 47, contador: 148
+hola soy 46282, vuelta: 48, contador: 149
+hola soy 46282, vuelta: 49, contador: 150
+hola soy 46282, vuelta: 50, contador: 151
+hola soy 46282, vuelta: 51, contador: 152
+hola soy 46282, vuelta: 52, contador: 153
+hola soy 46282, vuelta: 53, contador: 154
+hola soy 46282, vuelta: 54, contador: 155
+hola soy 46282, vuelta: 55, contador: 156
+hola soy 46282, vuelta: 56, contador: 157
+hola soy 46282, vuelta: 57, contador: 158
+hola soy 46282, vuelta: 58, contador: 159
+hola soy 46282, vuelta: 59, contador: 160
+hola soy 46282, vuelta: 60, contador: 161
+hola soy 46282, vuelta: 61, contador: 162
+hola soy 46282, vuelta: 62, contador: 163
+hola soy 46282, vuelta: 63, contador: 164
+hola soy 46282, vuelta: 64, contador: 165
+hola soy 46282, vuelta: 65, contador: 166
+hola soy 46282, vuelta: 66, contador: 167
+hola soy 46282, vuelta: 67, contador: 168
+hola soy 46282, vuelta: 68, contador: 169
+hola soy 46282, vuelta: 69, contador: 170
+hola soy 46282, vuelta: 70, contador: 171
+hola soy 46282, vuelta: 71, contador: 172
+hola soy 46282, vuelta: 72, contador: 173
+hola soy 46282, vuelta: 73, contador: 174
+hola soy 46282, vuelta: 74, contador: 175
+hola soy 46282, vuelta: 75, contador: 176
+hola soy 46282, vuelta: 76, contador: 177
+hola soy 46282, vuelta: 77, contador: 178
+hola soy 46282, vuelta: 78, contador: 179
+hola soy 46282, vuelta: 79, contador: 180
+hola soy 46282, vuelta: 80, contador: 181
+hola soy 46282, vuelta: 81, contador: 182
+hola soy 46282, vuelta: 82, contador: 183
+hola soy 46282, vuelta: 83, contador: 184
+hola soy 46282, vuelta: 84, contador: 185
+hola soy 46282, vuelta: 85, contador: 186
+hola soy 46282, vuelta: 86, contador: 187
+hola soy 46282, vuelta: 87, contador: 188
+hola soy 46282, vuelta: 88, contador: 189
+hola soy 46282, vuelta: 89, contador: 190
+hola soy 46282, vuelta: 90, contador: 191
+hola soy 46282, vuelta: 91, contador: 192
+hola soy 46282, vuelta: 92, contador: 193
+hola soy 46282, vuelta: 93, contador: 194
+hola soy 46282, vuelta: 94, contador: 195
+hola soy 46282, vuelta: 95, contador: 196
+hola soy 46282, vuelta: 96, contador: 197
+hola soy 46282, vuelta: 97, contador: 198
+hola soy 46282, vuelta: 98, contador: 199
+hola soy 46282, vuelta: 99, contador: 200
+hola soy 46284, vuelta: 0, contador: 201
+hola soy 46284, vuelta: 1, contador: 202
+hola soy 46284, vuelta: 2, contador: 203
+hola soy 46284, vuelta: 3, contador: 204
+hola soy 46284, vuelta: 4, contador: 205
+hola soy 46284, vuelta: 5, contador: 206
+hola soy 46284, vuelta: 6, contador: 207
+hola soy 46284, vuelta: 7, contador: 208
+hola soy 46284, vuelta: 8, contador: 209
+hola soy 46284, vuelta: 9, contador: 210
+hola soy 46284, vuelta: 10, contador: 211
+hola soy 46284, vuelta: 11, contador: 212
+hola soy 46284, vuelta: 12, contador: 213
+hola soy 46284, vuelta: 13, contador: 214
+hola soy 46284, vuelta: 14, contador: 215
+hola soy 46284, vuelta: 15, contador: 216
+hola soy 46284, vuelta: 16, contador: 217
+hola soy 46284, vuelta: 17, contador: 218
+hola soy 46284, vuelta: 18, contador: 219
+hola soy 46284, vuelta: 19, contador: 220
+hola soy 46284, vuelta: 20, contador: 221
+hola soy 46284, vuelta: 21, contador: 222
+hola soy 46284, vuelta: 22, contador: 223
+hola soy 46284, vuelta: 23, contador: 224
+hola soy 46284, vuelta: 24, contador: 225
+hola soy 46284, vuelta: 25, contador: 226
+hola soy 46284, vuelta: 26, contador: 227
+hola soy 46284, vuelta: 27, contador: 228
+hola soy 46284, vuelta: 28, contador: 229
+hola soy 46284, vuelta: 29, contador: 230
+hola soy 46284, vuelta: 30, contador: 231
+hola soy 46284, vuelta: 31, contador: 232
+hola soy 46284, vuelta: 32, contador: 233
+hola soy 46284, vuelta: 33, contador: 234
+hola soy 46284, vuelta: 34, contador: 235
+hola soy 46284, vuelta: 35, contador: 236
+hola soy 46284, vuelta: 36, contador: 237
+hola soy 46284, vuelta: 37, contador: 238
+hola soy 46284, vuelta: 38, contador: 239
+hola soy 46284, vuelta: 39, contador: 240
+hola soy 46284, vuelta: 40, contador: 241
+hola soy 46284, vuelta: 41, contador: 242
+hola soy 46284, vuelta: 42, contador: 243
+hola soy 46284, vuelta: 43, contador: 244
+hola soy 46284, vuelta: 44, contador: 245
+hola soy 46284, vuelta: 45, contador: 246
+hola soy 46284, vuelta: 46, contador: 247
+hola soy 46284, vuelta: 47, contador: 248
+hola soy 46284, vuelta: 48, contador: 249
+hola soy 46284, vuelta: 49, contador: 250
+hola soy 46284, vuelta: 50, contador: 251
+hola soy 46284, vuelta: 51, contador: 252
+hola soy 46284, vuelta: 52, contador: 254
+hola soy 46287, vuelta: 0, contador: 253
+hola soy 46287, vuelta: 1, contador: 255
+hola soy 46287, vuelta: 2, contador: 256
+hola soy 46284, vuelta: 53, contador: 255
+hola soy 46287, vuelta: 3, contador: 257
+hola soy 46287, vuelta: 4, contador: 258
+hola soy 46284, vuelta: 54, contador: 258
+hola soy 46287, vuelta: 5, contador: 259
+hola soy 46284, vuelta: 55, contador: 260
+hola soy 46287, vuelta: 6, contador: 261
+hola soy 46287, vuelta: 7, contador: 262
+hola soy 46287, vuelta: 8, contador: 263
+hola soy 46287, vuelta: 9, contador: 264
+hola soy 46287, vuelta: 10, contador: 265
+hola soy 46287, vuelta: 11, contador: 266
+hola soy 46287, vuelta: 12, contador: 267
+hola soy 46287, vuelta: 13, contador: 268
+hola soy 46287, vuelta: 14, contador: 269
+hola soy 46287, vuelta: 15, contador: 270
+hola soy 46287, vuelta: 16, contador: 271
+hola soy 46287, vuelta: 17, contador: 272
+hola soy 46287, vuelta: 18, contador: 273
+hola soy 46287, vuelta: 19, contador: 274
+hola soy 46287, vuelta: 20, contador: 275
+hola soy 46287, vuelta: 21, contador: 276
+hola soy 46287, vuelta: 22, contador: 277
+hola soy 46283, vuelta: 0, contador: 278
+hola soy 46287, vuelta: 23, contador: 279
+hola soy 46287, vuelta: 24, contador: 280
+hola soy 46287, vuelta: 25, contador: 281
+hola soy 46287, vuelta: 26, contador: 282
+hola soy 46287, vuelta: 27, contador: 283
+hola soy 46287, vuelta: 28, contador: 284
+hola soy 46287, vuelta: 29, contador: 285
+hola soy 46287, vuelta: 30, contador: 286
+hola soy 46287, vuelta: 31, contador: 287
+hola soy 46287, vuelta: 32, contador: 288
+hola soy 46287, vuelta: 33, contador: 289
+hola soy 46287, vuelta: 34, contador: 290
+hola soy 46283, vuelta: 1, contador: 290
+hola soy 46284, vuelta: 56, contador: 291
+hola soy 46287, vuelta: 35, contador: 292
+hola soy 46283, vuelta: 2, contador: 292
+hola soy 46284, vuelta: 57, contador: 293
+hola soy 46287, vuelta: 36, contador: 293
+hola soy 46283, vuelta: 3, contador: 294
+hola soy 46287, vuelta: 37, contador: 295
+hola soy 46284, vuelta: 58, contador: 295
+hola soy 46283, vuelta: 4, contador: 296
+hola soy 46287, vuelta: 38, contador: 296
+hola soy 46284, vuelta: 59, contador: 297
+hola soy 46285, vuelta: 0, contador: 298
+hola soy 46283, vuelta: 5, contador: 298
+hola soy 46287, vuelta: 39, contador: 298
+hola soy 46284, vuelta: 60, contador: 299
+hola soy 46287, vuelta: 40, contador: 300
+hola soy 46283, vuelta: 6, contador: 300
+hola soy 46284, vuelta: 61, contador: 301
+hola soy 46287, vuelta: 41, contador: 301
+hola soy 46283, vuelta: 7, contador: 302
+hola soy 46287, vuelta: 42, contador: 303
+hola soy 46284, vuelta: 62, contador: 303
+hola soy 46287, vuelta: 43, contador: 304
+hola soy 46283, vuelta: 8, contador: 304
+hola soy 46284, vuelta: 63, contador: 305
+hola soy 46287, vuelta: 44, contador: 306
+hola soy 46283, vuelta: 9, contador: 307
+hola soy 46285, vuelta: 1, contador: 307
+hola soy 46284, vuelta: 64, contador: 307
+hola soy 46287, vuelta: 45, contador: 308
+hola soy 46283, vuelta: 10, contador: 309
+hola soy 46285, vuelta: 2, contador: 309
+hola soy 46284, vuelta: 65, contador: 310
+hola soy 46287, vuelta: 46, contador: 310
+hola soy 46283, vuelta: 11, contador: 311
+hola soy 46285, vuelta: 3, contador: 311
+hola soy 46284, vuelta: 66, contador: 312
+hola soy 46287, vuelta: 47, contador: 312
+hola soy 46283, vuelta: 12, contador: 313
+hola soy 46286, vuelta: 0, contador: 314
+hola soy 46285, vuelta: 4, contador: 314
+hola soy 46284, vuelta: 67, contador: 314
+hola soy 46287, vuelta: 48, contador: 314
+hola soy 46283, vuelta: 13, contador: 315
+hola soy 46287, vuelta: 49, contador: 316
+hola soy 46284, vuelta: 68, contador: 316
+hola soy 46283, vuelta: 14, contador: 317
+hola soy 46287, vuelta: 50, contador: 317
+hola soy 46284, vuelta: 69, contador: 318
+hola soy 46287, vuelta: 51, contador: 319
+hola soy 46283, vuelta: 15, contador: 319
+hola soy 46284, vuelta: 70, contador: 320
+hola soy 46287, vuelta: 52, contador: 321
+hola soy 46283, vuelta: 16, contador: 321
+hola soy 46285, vuelta: 5, contador: 322
+hola soy 46286, vuelta: 1, contador: 322
+hola soy 46284, vuelta: 71, contador: 322
+hola soy 46288, vuelta: 0, contador: 322
+hola soy 46287, vuelta: 53, contador: 322
+hola soy 46283, vuelta: 17, contador: 323
+hola soy 46285, vuelta: 6, contador: 324
+hola soy 46286, vuelta: 2, contador: 324
+hola soy 46284, vuelta: 72, contador: 324
+hola soy 46288, vuelta: 1, contador: 324
+hola soy 46287, vuelta: 54, contador: 325
+hola soy 46283, vuelta: 18, contador: 325
+hola soy 46285, vuelta: 7, contador: 326
+hola soy 46288, vuelta: 2, contador: 326
+hola soy 46284, vuelta: 73, contador: 326
+hola soy 46286, vuelta: 3, contador: 326
+hola soy 46287, vuelta: 55, contador: 327
+hola soy 46283, vuelta: 19, contador: 327
+hola soy 46285, vuelta: 8, contador: 328
+hola soy 46288, vuelta: 3, contador: 328
+hola soy 46284, vuelta: 74, contador: 329
+hola soy 46286, vuelta: 4, contador: 329
+hola soy 46287, vuelta: 56, contador: 329
+hola soy 46283, vuelta: 20, contador: 329
+hola soy 46288, vuelta: 4, contador: 330
+hola soy 46285, vuelta: 9, contador: 331
+hola soy 46284, vuelta: 75, contador: 331
+hola soy 46287, vuelta: 57, contador: 331
+hola soy 46283, vuelta: 21, contador: 331
+hola soy 46286, vuelta: 5, contador: 331
+hola soy 46288, vuelta: 5, contador: 332
+hola soy 46285, vuelta: 10, contador: 332
+hola soy 46287, vuelta: 58, contador: 333
+hola soy 46284, vuelta: 76, contador: 333
+hola soy 46283, vuelta: 22, contador: 333
+hola soy 46286, vuelta: 6, contador: 333
+hola soy 46288, vuelta: 6, contador: 334
+hola soy 46285, vuelta: 11, contador: 335
+hola soy 46287, vuelta: 59, contador: 335
+hola soy 46283, vuelta: 23, contador: 335
+hola soy 46284, vuelta: 77, contador: 335
+hola soy 46286, vuelta: 7, contador: 335
+hola soy 46288, vuelta: 7, contador: 336
+hola soy 46285, vuelta: 12, contador: 337
+hola soy 46287, vuelta: 60, contador: 337
+hola soy 46284, vuelta: 78, contador: 337
+hola soy 46283, vuelta: 24, contador: 337
+hola soy 46286, vuelta: 8, contador: 338
+hola soy 46288, vuelta: 8, contador: 338
+hola soy 46285, vuelta: 13, contador: 339
+hola soy 46284, vuelta: 79, contador: 339
+hola soy 46287, vuelta: 61, contador: 339
+hola soy 46283, vuelta: 25, contador: 339
+hola soy 46286, vuelta: 9, contador: 340
+hola soy 46288, vuelta: 9, contador: 340
+hola soy 46285, vuelta: 14, contador: 341
+hola soy 46284, vuelta: 80, contador: 341
+hola soy 46287, vuelta: 62, contador: 342
+hola soy 46283, vuelta: 26, contador: 342
+hola soy 46286, vuelta: 10, contador: 342
+hola soy 46285, vuelta: 15, contador: 343
+hola soy 46288, vuelta: 10, contador: 344
+hola soy 46284, vuelta: 81, contador: 344
+hola soy 46287, vuelta: 63, contador: 344
+hola soy 46283, vuelta: 27, contador: 344
+hola soy 46286, vuelta: 11, contador: 344
+hola soy 46285, vuelta: 16, contador: 345
+hola soy 46288, vuelta: 11, contador: 345
+hola soy 46284, vuelta: 82, contador: 345
+hola soy 46287, vuelta: 64, contador: 346
+hola soy 46283, vuelta: 28, contador: 346
+hola soy 46286, vuelta: 12, contador: 346
+hola soy 46285, vuelta: 17, contador: 347
+hola soy 46288, vuelta: 12, contador: 347
+hola soy 46284, vuelta: 83, contador: 347
+hola soy 46287, vuelta: 65, contador: 347
+hola soy 46283, vuelta: 29, contador: 348
+hola soy 46286, vuelta: 13, contador: 348
+hola soy 46285, vuelta: 18, contador: 349
+hola soy 46284, vuelta: 84, contador: 349
+hola soy 46288, vuelta: 13, contador: 349
+hola soy 46287, vuelta: 66, contador: 349
+hola soy 46283, vuelta: 30, contador: 350
+hola soy 46286, vuelta: 14, contador: 350
+hola soy 46284, vuelta: 85, contador: 351
+hola soy 46285, vuelta: 19, contador: 351
+hola soy 46287, vuelta: 67, contador: 351
+hola soy 46288, vuelta: 14, contador: 352
+hola soy 46283, vuelta: 31, contador: 352
+hola soy 46286, vuelta: 15, contador: 353
+hola soy 46285, vuelta: 20, contador: 353
+hola soy 46284, vuelta: 86, contador: 353
+hola soy 46287, vuelta: 68, contador: 353
+hola soy 46288, vuelta: 15, contador: 354
+hola soy 46283, vuelta: 32, contador: 354
+hola soy 46286, vuelta: 16, contador: 355
+hola soy 46285, vuelta: 21, contador: 355
+hola soy 46284, vuelta: 87, contador: 355
+hola soy 46287, vuelta: 69, contador: 355
+hola soy 46288, vuelta: 16, contador: 356
+hola soy 46283, vuelta: 33, contador: 356
+hola soy 46286, vuelta: 17, contador: 357
+hola soy 46284, vuelta: 88, contador: 357
+hola soy 46285, vuelta: 22, contador: 357
+hola soy 46287, vuelta: 70, contador: 358
+hola soy 46288, vuelta: 17, contador: 358
+hola soy 46283, vuelta: 34, contador: 359
+hola soy 46284, vuelta: 89, contador: 360
+hola soy 46286, vuelta: 18, contador: 360
+hola soy 46287, vuelta: 71, contador: 360
+hola soy 46285, vuelta: 23, contador: 360
+hola soy 46288, vuelta: 18, contador: 361
+hola soy 46283, vuelta: 35, contador: 361
+hola soy 46284, vuelta: 90, contador: 362
+hola soy 46286, vuelta: 19, contador: 362
+hola soy 46287, vuelta: 72, contador: 362
+hola soy 46285, vuelta: 24, contador: 363
+hola soy 46283, vuelta: 36, contador: 363
+hola soy 46288, vuelta: 19, contador: 364
+hola soy 46284, vuelta: 91, contador: 364
+hola soy 46287, vuelta: 73, contador: 365
+hola soy 46286, vuelta: 20, contador: 364
+hola soy 46283, vuelta: 37, contador: 365
+hola soy 46285, vuelta: 25, contador: 365
+hola soy 46284, vuelta: 92, contador: 366
+hola soy 46287, vuelta: 74, contador: 367
+hola soy 46286, vuelta: 21, contador: 367
+hola soy 46285, vuelta: 26, contador: 367
+hola soy 46288, vuelta: 20, contador: 367
+hola soy 46283, vuelta: 38, contador: 367
+hola soy 46284, vuelta: 93, contador: 368
+hola soy 46287, vuelta: 75, contador: 369
+hola soy 46286, vuelta: 22, contador: 369
+hola soy 46283, vuelta: 39, contador: 369
+hola soy 46288, vuelta: 21, contador: 369
+hola soy 46285, vuelta: 27, contador: 369
+hola soy 46284, vuelta: 94, contador: 370
+hola soy 46287, vuelta: 76, contador: 370
+hola soy 46286, vuelta: 23, contador: 371
+hola soy 46283, vuelta: 40, contador: 371
+hola soy 46285, vuelta: 28, contador: 371
+hola soy 46287, vuelta: 77, contador: 372
+hola soy 46284, vuelta: 95, contador: 373
+hola soy 46286, vuelta: 24, contador: 373
+hola soy 46288, vuelta: 22, contador: 373
+hola soy 46283, vuelta: 41, contador: 373
+hola soy 46285, vuelta: 29, contador: 374
+hola soy 46287, vuelta: 78, contador: 374
+hola soy 46284, vuelta: 96, contador: 374
+hola soy 46286, vuelta: 25, contador: 374
+hola soy 46283, vuelta: 42, contador: 374
+hola soy 46288, vuelta: 23, contador: 374
+hola soy 46285, vuelta: 30, contador: 375
+hola soy 46284, vuelta: 97, contador: 376
+hola soy 46287, vuelta: 79, contador: 376
+hola soy 46286, vuelta: 26, contador: 376
+hola soy 46288, vuelta: 24, contador: 376
+hola soy 46283, vuelta: 43, contador: 376
+hola soy 46285, vuelta: 31, contador: 377
+hola soy 46284, vuelta: 98, contador: 377
+hola soy 46287, vuelta: 80, contador: 378
+hola soy 46286, vuelta: 27, contador: 378
+hola soy 46288, vuelta: 25, contador: 378
+hola soy 46283, vuelta: 44, contador: 379
+hola soy 46284, vuelta: 99, contador: 379
+hola soy 46285, vuelta: 32, contador: 379
+hola soy 46287, vuelta: 81, contador: 380
+hola soy 46288, vuelta: 26, contador: 380
+hola soy 46286, vuelta: 28, contador: 381
+hola soy 46283, vuelta: 45, contador: 381
+hola soy 46285, vuelta: 33, contador: 381
+hola soy 46287, vuelta: 82, contador: 382
+hola soy 46288, vuelta: 27, contador: 383
+hola soy 46286, vuelta: 29, contador: 383
+hola soy 46283, vuelta: 46, contador: 383
+hola soy 46285, vuelta: 34, contador: 383
+hola soy 46287, vuelta: 83, contador: 384
+hola soy 46288, vuelta: 28, contador: 385
+hola soy 46286, vuelta: 30, contador: 385
+hola soy 46283, vuelta: 47, contador: 386
+hola soy 46287, vuelta: 84, contador: 386
+hola soy 46285, vuelta: 35, contador: 387
+hola soy 46288, vuelta: 29, contador: 387
+hola soy 46283, vuelta: 48, contador: 387
+hola soy 46286, vuelta: 31, contador: 387
+hola soy 46287, vuelta: 85, contador: 388
+hola soy 46285, vuelta: 36, contador: 388
+hola soy 46286, vuelta: 32, contador: 389
+hola soy 46283, vuelta: 49, contador: 390
+hola soy 46288, vuelta: 30, contador: 390
+hola soy 46287, vuelta: 86, contador: 390
+hola soy 46285, vuelta: 37, contador: 390
+hola soy 46286, vuelta: 33, contador: 391
+hola soy 46283, vuelta: 50, contador: 391
+hola soy 46287, vuelta: 87, contador: 392
+hola soy 46285, vuelta: 38, contador: 393
+hola soy 46286, vuelta: 34, contador: 393
+hola soy 46283, vuelta: 51, contador: 394
+hola soy 46288, vuelta: 31, contador: 394
+hola soy 46287, vuelta: 88, contador: 394
+hola soy 46285, vuelta: 39, contador: 395
+hola soy 46286, vuelta: 35, contador: 396
+hola soy 46283, vuelta: 52, contador: 396
+hola soy 46287, vuelta: 89, contador: 396
+hola soy 46288, vuelta: 32, contador: 396
+hola soy 46285, vuelta: 40, contador: 397
+hola soy 46286, vuelta: 36, contador: 397
+hola soy 46283, vuelta: 53, contador: 398
+hola soy 46288, vuelta: 33, contador: 398
+hola soy 46287, vuelta: 90, contador: 398
+hola soy 46285, vuelta: 41, contador: 399
+hola soy 46286, vuelta: 37, contador: 399
+hola soy 46287, vuelta: 91, contador: 400
+hola soy 46283, vuelta: 54, contador: 400
+hola soy 46288, vuelta: 34, contador: 400
+hola soy 46285, vuelta: 42, contador: 402
+hola soy 46286, vuelta: 38, contador: 402
+hola soy 46287, vuelta: 92, contador: 402
+hola soy 46283, vuelta: 55, contador: 402
+hola soy 46288, vuelta: 35, contador: 402
+hola soy 46285, vuelta: 43, contador: 403
+hola soy 46287, vuelta: 93, contador: 404
+hola soy 46286, vuelta: 39, contador: 404
+hola soy 46283, vuelta: 56, contador: 404
+hola soy 46288, vuelta: 36, contador: 405
+hola soy 46287, vuelta: 94, contador: 405
+hola soy 46285, vuelta: 44, contador: 405
+hola soy 46286, vuelta: 40, contador: 406
+hola soy 46283, vuelta: 57, contador: 406
+hola soy 46288, vuelta: 37, contador: 407
+hola soy 46287, vuelta: 95, contador: 408
+hola soy 46285, vuelta: 45, contador: 408
+hola soy 46286, vuelta: 41, contador: 408
+hola soy 46283, vuelta: 58, contador: 408
+hola soy 46287, vuelta: 96, contador: 409
+hola soy 46286, vuelta: 42, contador: 410
+hola soy 46283, vuelta: 59, contador: 410
+hola soy 46285, vuelta: 46, contador: 410
+hola soy 46288, vuelta: 38, contador: 410
+hola soy 46287, vuelta: 97, contador: 411
+hola soy 46283, vuelta: 60, contador: 412
+hola soy 46285, vuelta: 47, contador: 412
+hola soy 46286, vuelta: 43, contador: 412
+hola soy 46288, vuelta: 39, contador: 412
+hola soy 46287, vuelta: 98, contador: 413
+hola soy 46283, vuelta: 61, contador: 414
+hola soy 46285, vuelta: 48, contador: 414
+hola soy 46286, vuelta: 44, contador: 414
+hola soy 46288, vuelta: 40, contador: 415
+hola soy 46287, vuelta: 99, contador: 416
+hola soy 46283, vuelta: 62, contador: 416
+hola soy 46285, vuelta: 49, contador: 417
+hola soy 46286, vuelta: 45, contador: 417
+hola soy 46283, vuelta: 63, contador: 418
+hola soy 46285, vuelta: 50, contador: 419
+hola soy 46283, vuelta: 64, contador: 420
+hola soy 46286, vuelta: 46, contador: 421
+hola soy 46285, vuelta: 51, contador: 422
+hola soy 46283, vuelta: 65, contador: 422
+hola soy 46283, vuelta: 66, contador: 423
+hola soy 46283, vuelta: 67, contador: 424
+hola soy 46283, vuelta: 68, contador: 425
+hola soy 46283, vuelta: 69, contador: 426
+hola soy 46283, vuelta: 70, contador: 427
+hola soy 46283, vuelta: 71, contador: 428
+hola soy 46283, vuelta: 72, contador: 429
+hola soy 46283, vuelta: 73, contador: 430
+hola soy 46283, vuelta: 74, contador: 431
+hola soy 46283, vuelta: 75, contador: 432
+hola soy 46283, vuelta: 76, contador: 433
+hola soy 46283, vuelta: 77, contador: 434
+hola soy 46283, vuelta: 78, contador: 435
+hola soy 46283, vuelta: 79, contador: 436
+hola soy 46283, vuelta: 80, contador: 437
+hola soy 46283, vuelta: 81, contador: 438
+hola soy 46283, vuelta: 82, contador: 439
+hola soy 46283, vuelta: 83, contador: 440
+hola soy 46283, vuelta: 84, contador: 441
+hola soy 46283, vuelta: 85, contador: 442
+hola soy 46283, vuelta: 86, contador: 443
+hola soy 46283, vuelta: 87, contador: 444
+hola soy 46283, vuelta: 88, contador: 445
+hola soy 46283, vuelta: 89, contador: 446
+hola soy 46283, vuelta: 90, contador: 447
+hola soy 46283, vuelta: 91, contador: 448
+hola soy 46283, vuelta: 92, contador: 449
+hola soy 46283, vuelta: 93, contador: 450
+hola soy 46283, vuelta: 94, contador: 451
+hola soy 46283, vuelta: 95, contador: 452
+hola soy 46283, vuelta: 96, contador: 453
+hola soy 46283, vuelta: 97, contador: 454
+hola soy 46283, vuelta: 98, contador: 455
+hola soy 46283, vuelta: 99, contador: 456
+hola soy 46285, vuelta: 52, contador: 457
+hola soy 46285, vuelta: 53, contador: 458
+hola soy 46285, vuelta: 54, contador: 459
+hola soy 46285, vuelta: 55, contador: 460
+hola soy 46285, vuelta: 56, contador: 461
+hola soy 46285, vuelta: 57, contador: 462
+hola soy 46285, vuelta: 58, contador: 463
+hola soy 46285, vuelta: 59, contador: 464
+hola soy 46285, vuelta: 60, contador: 465
+hola soy 46285, vuelta: 61, contador: 466
+hola soy 46285, vuelta: 62, contador: 467
+hola soy 46285, vuelta: 63, contador: 468
+hola soy 46285, vuelta: 64, contador: 469
+hola soy 46285, vuelta: 65, contador: 470
+hola soy 46285, vuelta: 66, contador: 471
+hola soy 46285, vuelta: 67, contador: 472
+hola soy 46285, vuelta: 68, contador: 473
+hola soy 46285, vuelta: 69, contador: 474
+hola soy 46285, vuelta: 70, contador: 475
+hola soy 46285, vuelta: 71, contador: 476
+hola soy 46285, vuelta: 72, contador: 477
+hola soy 46285, vuelta: 73, contador: 478
+hola soy 46285, vuelta: 74, contador: 479
+hola soy 46285, vuelta: 75, contador: 480
+hola soy 46285, vuelta: 76, contador: 481
+hola soy 46285, vuelta: 77, contador: 482
+hola soy 46285, vuelta: 78, contador: 483
+hola soy 46285, vuelta: 79, contador: 484
+hola soy 46285, vuelta: 80, contador: 485
+hola soy 46285, vuelta: 81, contador: 486
+hola soy 46285, vuelta: 82, contador: 487
+hola soy 46285, vuelta: 83, contador: 488
+hola soy 46285, vuelta: 84, contador: 489
+hola soy 46285, vuelta: 85, contador: 490
+hola soy 46285, vuelta: 86, contador: 491
+hola soy 46285, vuelta: 87, contador: 492
+hola soy 46285, vuelta: 88, contador: 493
+hola soy 46285, vuelta: 89, contador: 494
+hola soy 46285, vuelta: 90, contador: 495
+hola soy 46285, vuelta: 91, contador: 496
+hola soy 46285, vuelta: 92, contador: 497
+hola soy 46285, vuelta: 93, contador: 498
+hola soy 46285, vuelta: 94, contador: 499
+hola soy 46285, vuelta: 95, contador: 500
+hola soy 46285, vuelta: 96, contador: 501
+hola soy 46285, vuelta: 97, contador: 502
+hola soy 46285, vuelta: 98, contador: 503
+hola soy 46285, vuelta: 99, contador: 504
+hola soy 46286, vuelta: 47, contador: 505
+hola soy 46286, vuelta: 48, contador: 506
+hola soy 46286, vuelta: 49, contador: 507
+hola soy 46286, vuelta: 50, contador: 509
+hola soy 46286, vuelta: 51, contador: 510
+hola soy 46286, vuelta: 52, contador: 511
+hola soy 46286, vuelta: 53, contador: 512
+hola soy 46286, vuelta: 54, contador: 513
+hola soy 46286, vuelta: 55, contador: 514
+hola soy 46286, vuelta: 56, contador: 515
+hola soy 46286, vuelta: 57, contador: 516
+hola soy 46286, vuelta: 58, contador: 517
+hola soy 46286, vuelta: 59, contador: 518
+hola soy 46286, vuelta: 60, contador: 519
+hola soy 46286, vuelta: 61, contador: 520
+hola soy 46286, vuelta: 62, contador: 521
+hola soy 46286, vuelta: 63, contador: 522
+hola soy 46286, vuelta: 64, contador: 523
+hola soy 46286, vuelta: 65, contador: 524
+hola soy 46286, vuelta: 66, contador: 525
+hola soy 46286, vuelta: 67, contador: 526
+hola soy 46286, vuelta: 68, contador: 527
+hola soy 46286, vuelta: 69, contador: 528
+hola soy 46286, vuelta: 70, contador: 529
+hola soy 46286, vuelta: 71, contador: 530
+hola soy 46286, vuelta: 72, contador: 531
+hola soy 46286, vuelta: 73, contador: 532
+hola soy 46286, vuelta: 74, contador: 533
+hola soy 46286, vuelta: 75, contador: 534
+hola soy 46286, vuelta: 76, contador: 535
+hola soy 46286, vuelta: 77, contador: 536
+hola soy 46286, vuelta: 78, contador: 537
+hola soy 46286, vuelta: 79, contador: 538
+hola soy 46286, vuelta: 80, contador: 539
+hola soy 46286, vuelta: 81, contador: 540
+hola soy 46286, vuelta: 82, contador: 541
+hola soy 46286, vuelta: 83, contador: 542
+hola soy 46286, vuelta: 84, contador: 543
+hola soy 46286, vuelta: 85, contador: 544
+hola soy 46286, vuelta: 86, contador: 545
+hola soy 46286, vuelta: 87, contador: 546
+hola soy 46286, vuelta: 88, contador: 547
+hola soy 46286, vuelta: 89, contador: 548
+hola soy 46286, vuelta: 90, contador: 549
+hola soy 46286, vuelta: 91, contador: 550
+hola soy 46286, vuelta: 92, contador: 551
+hola soy 46286, vuelta: 93, contador: 552
+hola soy 46286, vuelta: 94, contador: 553
+hola soy 46286, vuelta: 95, contador: 554
+hola soy 46286, vuelta: 96, contador: 555
+hola soy 46286, vuelta: 97, contador: 556
+hola soy 46286, vuelta: 98, contador: 557
+hola soy 46286, vuelta: 99, contador: 558
+hola soy 46288, vuelta: 41, contador: 558
+hola soy 46288, vuelta: 42, contador: 559
+hola soy 46288, vuelta: 43, contador: 560
+hola soy 46288, vuelta: 44, contador: 561
+hola soy 46288, vuelta: 45, contador: 562
+hola soy 46288, vuelta: 46, contador: 563
+hola soy 46288, vuelta: 47, contador: 564
+hola soy 46288, vuelta: 48, contador: 565
+hola soy 46288, vuelta: 49, contador: 566
+hola soy 46288, vuelta: 50, contador: 567
+hola soy 46288, vuelta: 51, contador: 568
+hola soy 46288, vuelta: 52, contador: 569
+hola soy 46288, vuelta: 53, contador: 570
+hola soy 46288, vuelta: 54, contador: 571
+hola soy 46288, vuelta: 55, contador: 572
+hola soy 46288, vuelta: 56, contador: 573
+hola soy 46288, vuelta: 57, contador: 574
+hola soy 46288, vuelta: 58, contador: 575
+hola soy 46288, vuelta: 59, contador: 576
+hola soy 46288, vuelta: 60, contador: 577
+hola soy 46288, vuelta: 61, contador: 578
+hola soy 46288, vuelta: 62, contador: 579
+hola soy 46288, vuelta: 63, contador: 580
+hola soy 46288, vuelta: 64, contador: 581
+hola soy 46288, vuelta: 65, contador: 582
+hola soy 46288, vuelta: 66, contador: 583
+hola soy 46288, vuelta: 67, contador: 584
+hola soy 46288, vuelta: 68, contador: 585
+hola soy 46288, vuelta: 69, contador: 586
+hola soy 46288, vuelta: 70, contador: 587
+hola soy 46288, vuelta: 71, contador: 588
+hola soy 46288, vuelta: 72, contador: 589
+hola soy 46288, vuelta: 73, contador: 590
+hola soy 46288, vuelta: 74, contador: 591
+hola soy 46288, vuelta: 75, contador: 592
+hola soy 46288, vuelta: 76, contador: 593
+hola soy 46288, vuelta: 77, contador: 594
+hola soy 46288, vuelta: 78, contador: 595
+hola soy 46288, vuelta: 79, contador: 596
+hola soy 46288, vuelta: 80, contador: 597
+hola soy 46288, vuelta: 81, contador: 598
+hola soy 46288, vuelta: 82, contador: 599
+hola soy 46288, vuelta: 83, contador: 600
+hola soy 46288, vuelta: 84, contador: 601
+hola soy 46288, vuelta: 85, contador: 602
+hola soy 46288, vuelta: 86, contador: 603
+hola soy 46288, vuelta: 87, contador: 604
+hola soy 46288, vuelta: 88, contador: 605
+hola soy 46288, vuelta: 89, contador: 606
+hola soy 46288, vuelta: 90, contador: 607
+hola soy 46288, vuelta: 91, contador: 608
+hola soy 46288, vuelta: 92, contador: 609
+hola soy 46288, vuelta: 93, contador: 610
+hola soy 46288, vuelta: 94, contador: 611
+hola soy 46288, vuelta: 95, contador: 612
+hola soy 46288, vuelta: 96, contador: 613
+hola soy 46288, vuelta: 97, contador: 614
+hola soy 46288, vuelta: 98, contador: 615
+hola soy 46288, vuelta: 99, contador: 616
+adios
+Valor final del contador 616
+fin
+bash-3.2$ exit
+
+Script done on Tue Feb  8 11:00:31 2022
